@@ -1,0 +1,4 @@
+* What is this repo about?
+Here is the resources and the notes I find and produced during learning the deep learning techniques.
+* Bengio's Book
+An online deep learning book. book is [[http://www.deeplearningbook.org/][here]].
